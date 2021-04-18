@@ -1,0 +1,11 @@
+npm init
+npm run start
+mongo db cmd
+use db_name
+show collections voir les table
+db.blogposts.find({})
+
+ui
+ng g m material --flat
+ng g c --spec=false --module=app
+ng g c blogpost-list --spec=false --module-app
